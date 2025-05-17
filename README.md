@@ -9,7 +9,10 @@ Student: Charles-Antoine LEGER - Major SCIA - Promotion 2026
 This final class project repository implements 3 models of recommendations.
 We recommends videos based on the [KuaiRec Dataset](https://doi.org/10.1145/3511808.3557220).
 
-Content-Based Recommender Systems: - Basic: based on cosine similarities videos (tags categories) and user profile. - Learning-to-Rank: more advanced system based on lecture model.
+Content-Based Recommender Systems:
+
+- Basic: based on cosine similarities videos (tags categories) and user profile.
+- Learning-to-Rank: more advanced system based on lecture model.
 
 Collaborative-Based (ALS), based on lecture model.
 
